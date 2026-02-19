@@ -1,2 +1,2 @@
-# BasicFrontendProject
+# BasicProjects
 App clones 
